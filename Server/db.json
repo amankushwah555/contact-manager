@@ -1,0 +1,110 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdWnHI",
+      "name": "Tanmay Akolkar",
+      "company": "Tech Radix",
+      "email": "test01@gmail.com",
+      "title": "Software Developer",
+      "mobile": "1234567890",
+      "photo": "https://media-exp2.licdn.com/dms/image/C5603AQG_SziuuAbtxA/profile-displayphoto-shrink_800_800/0/1517245478577?e=1663804800&v=beta&t=ohYAeSteaoHTh_oxWStmWH-QWX-AdcRwGOOIt71ktoo",
+      "groupId": "1"
+    },
+    {
+      "id": "TVobxeKbI",
+      "name": "Krishnapal Singh Chandrawat ",
+      "company": "Tech Radix",
+      "email": "test02@gmail.com",
+      "title": "Full-Stack Developer",
+      "mobile": "0123456789",
+      "photo": "https://media-exp2.licdn.com/dms/image/C4D03AQErBln1EF68FA/profile-displayphoto-shrink_800_800/0/1655796950718?e=1663804800&v=beta&t=mG_aAX4Q5BNQfLYxlcurkKSoVKBX_HNGwbimNk4orxw",
+      "groupId": "1"
+    },
+    {
+      "id": "UyEDV5Yds",
+      "name": "Sudhir Lambhate",
+      "company": "Chameli Devi Group of Institutions",
+      "email": "test03@gmail.com",
+      "title": "Mentor",
+      "mobile": "7974392752",
+      "photo": "https://media-exp2.licdn.com/dms/image/C5603AQGZAbWFzJpd4g/profile-displayphoto-shrink_800_800/0/1595031868745?e=1663804800&v=beta&t=lB1lkpyisODhvc6pq54OZvongqoGGcxBbfpMdp2tcYk",
+      "groupId": "6"
+    },
+    {
+      "id": "kLt-bJF",
+      "name": "Gregory (Greg) D'souza",
+      "photo": "https://media-exp2.licdn.com/dms/image/C4D03AQGrVOwYTah5kA/profile-displayphoto-shrink_800_800/0/1650111688396?e=1663804800&v=beta&t=w9Ayf1GtwRnvHKGR2pSPNExq45XzBsG2uC2-ghP4RGI",
+      "mobile": "9090909090",
+      "email": "test04@gmail.com",
+      "company": "Tech Radix",
+      "title": "HR and CRM",
+      "groupId": "1"
+    },
+    {
+      "name": "Devanshu Bhatt",
+      "photo": "https://media-exp1.licdn.com/dms/image/C5103AQG7a0l33pSRMQ/profile-displayphoto-shrink_800_800/0/1516281529864?e=1663804800&v=beta&t=w-Y3rSKyyUx8V74twLz5lzX3C6D2j8PyxBNB97-ZNS8",
+      "mobile": "21166466446",
+      "email": "test05@gmail.com",
+      "company": "Tech Radix",
+      "title": "Md",
+      "groupId": "1",
+      "id": "qKAYc3b"
+    },
+    {
+      "name": "Abhishek Dubey ",
+      "photo": "https://media-exp1.licdn.com/dms/image/C4D03AQGcRxkypsEGTg/profile-displayphoto-shrink_800_800/0/1649343468230?e=1663804800&v=beta&t=2ZVJbs9AR7vLBOZ7SS7Ngm0TKccBUu-ok9uEPbbvedM",
+      "mobile": "894969443333",
+      "email": "test06@gmail.com",
+      "company": "Tech Radix",
+      "title": "General Manager",
+      "groupId": "2",
+      "id": "U-BdIRV"
+    },
+    {
+      "name": "Harsh Dubey",
+      "photo": "https://media-exp1.licdn.com/dms/image/C5603AQEsXIJRLNdcSA/profile-displayphoto-shrink_800_800/0/1644674701250?e=1663804800&v=beta&t=YZyoZI6OiSUAb2bCfD9vLhLKro7OI7vuIkYuj8m2s7Q",
+      "mobile": "5154848485",
+      "email": "test07@gmail.com",
+      "company": "Today's Space ",
+      "title": "Intern",
+      "groupId": "2",
+      "id": "9UffafJ"
+    },
+    {
+      "name": "Harshit Sultaniya ",
+      "photo": "https://media-exp1.licdn.com/dms/image/D4D35AQEpV1WZojABnA/profile-framedphoto-shrink_800_800/0/1641627447941?e=1659070800&v=beta&t=aHxOwRx1Akj8MmAlR3yeZb9zPBooX4-agw6S7k9kBuU",
+      "mobile": "6546431026",
+      "email": "test08@gmail.com",
+      "company": "Today's Space ",
+      "title": "Intern",
+      "groupId": "6",
+      "id": "wELaEr5"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
